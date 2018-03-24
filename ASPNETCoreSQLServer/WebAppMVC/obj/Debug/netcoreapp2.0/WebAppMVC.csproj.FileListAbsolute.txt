@@ -1,0 +1,32 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.csprojResolveAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.pdb
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.deps.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.runtimeconfig.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.runtimeconfig.dev.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.dll
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.pdb
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.AssemblyInfoInputs.cache
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.AssemblyInfo.cs
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.dll
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppMVC\bin\Debug\netcoreapp2.0\WebAppMVC.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.csprojResolveAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppMVC\obj\Debug\netcoreapp2.0\WebAppMVC.pdb

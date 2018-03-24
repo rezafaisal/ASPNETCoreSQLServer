@@ -1,0 +1,82 @@
+﻿@model SqlServerBookStore.Models.BookViewModel
+
+<div class="">
+    <div class="page-title">
+        <div class="title_left">
+            <h3>Book</h3>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                    <div class="x_title">
+                        <h2>Detail Book</h2>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="x_content">
+                        <br />
+                        <form data-parsley-validate class="form-horizontal form-label-left">
+                            <div class="form-group">
+                                <label class="control-label col-md-3 col-sm-3 col-xs-12">Cover</label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <img src="~/upload/@(Model.ISBN).jpg" asp-append-version="true" style="width: 100px; height: 142px" />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ISBN" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="ISBN" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="CategoryName" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="CategoryName" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Title" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="Title" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="AuthorNames" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="AuthorNames" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="PublishDate" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="PublishDate" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Price" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="Price" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Quantity" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="Quantity" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="ln_solid"></div>
+                            <div class="form-group">
+                                <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3">
+                                    <button class="btn btn-primary" type="button" onclick="location.href='@Url.Action("Index", "Books")'">Back to List</button>
+                                    <button class="btn btn-primary" type="button" onclick="location.href='@Url.Action("Edit", "Books", new { id =  @Model.ISBN})'">Edit</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

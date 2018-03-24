@@ -1,0 +1,30 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.csprojResolveAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.AssemblyInfo.cs
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.deps.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.runtimeconfig.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.runtimeconfig.dev.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.dll
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.pdb
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.csprojResolveAssemblyReference.cache
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.csproj.CoreCompileInputs.cache
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.AssemblyInfoInputs.cache
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.AssemblyInfo.cs
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.dll
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppEmpty\bin\Debug\netcoreapp2.0\WebAppEmpty.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.csprojResolveAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppEmpty\obj\Debug\netcoreapp2.0\WebAppEmpty.pdb

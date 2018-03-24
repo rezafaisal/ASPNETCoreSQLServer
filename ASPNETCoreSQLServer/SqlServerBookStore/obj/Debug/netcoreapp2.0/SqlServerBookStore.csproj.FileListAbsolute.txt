@@ -1,0 +1,12 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\bin\Debug\netcoreapp2.0\SqlServerBookStore.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\bin\Debug\netcoreapp2.0\SqlServerBookStore.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\bin\Debug\netcoreapp2.0\SqlServerBookStore.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\bin\Debug\netcoreapp2.0\SqlServerBookStore.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\bin\Debug\netcoreapp2.0\SqlServerBookStore.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\obj\Debug\netcoreapp2.0\SqlServerBookStore.csprojResolveAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\obj\Debug\netcoreapp2.0\SqlServerBookStore.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\obj\Debug\netcoreapp2.0\SqlServerBookStore.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\obj\Debug\netcoreapp2.0\SqlServerBookStore.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\obj\Debug\netcoreapp2.0\SqlServerBookStore.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerBookStore\obj\Debug\netcoreapp2.0\SqlServerBookStore.pdb

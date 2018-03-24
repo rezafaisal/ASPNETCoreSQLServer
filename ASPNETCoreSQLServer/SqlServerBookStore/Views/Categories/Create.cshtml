@@ -1,0 +1,43 @@
+﻿@model SqlServerBookStore.Models.Category
+
+<div class="">
+    <div class="page-title">
+        <div class="title_left">
+            <h3>Book Category</h3>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                    <div class="x_title">
+                        <h2>Form Book Category <small>create data</small></h2>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="x_content">
+                        <br />
+                        <form asp-controller="Categories" asp-action="Create" data-parsley-validate class="form-horizontal form-label-left">
+                            <div asp-validation-summary="All"></div>
+                            <div class="form-group">
+                                <label asp-for="Name" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="Name" required="required" class="form-control col-md-7 col-xs-12">
+                                    <span asp-validation-for="Name"></span>
+                                </div>
+                            </div>
+                            <div class="ln_solid"></div>
+                            <div class="form-group">
+                                <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3">
+                                    <button class="btn btn-primary" type="button" onclick="location.href='@Url.Action("Index", "Categories")'">Cancel</button>
+                                    <button class="btn btn-primary" type="reset" onclick='document.forms[0].reset();return false;'>Reset</button>
+                                    <button type="submit" class="btn btn-success">Submit</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

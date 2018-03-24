@@ -1,0 +1,21 @@
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppRazor\bin\Debug\netcoreapp2.0\WebAppRazor.deps.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppRazor\bin\Debug\netcoreapp2.0\WebAppRazor.runtimeconfig.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppRazor\bin\Debug\netcoreapp2.0\WebAppRazor.runtimeconfig.dev.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppRazor\bin\Debug\netcoreapp2.0\WebAppRazor.dll
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppRazor\bin\Debug\netcoreapp2.0\WebAppRazor.pdb
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppRazor\obj\Debug\netcoreapp2.0\WebAppRazor.csproj.CoreCompileInputs.cache
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppRazor\obj\Debug\netcoreapp2.0\WebAppRazor.AssemblyInfoInputs.cache
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppRazor\obj\Debug\netcoreapp2.0\WebAppRazor.AssemblyInfo.cs
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppRazor\obj\Debug\netcoreapp2.0\WebAppRazor.dll
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\WebAppRazor\obj\Debug\netcoreapp2.0\WebAppRazor.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppRazor\bin\Debug\netcoreapp2.0\WebAppRazor.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppRazor\bin\Debug\netcoreapp2.0\WebAppRazor.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppRazor\bin\Debug\netcoreapp2.0\WebAppRazor.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppRazor\bin\Debug\netcoreapp2.0\WebAppRazor.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppRazor\bin\Debug\netcoreapp2.0\WebAppRazor.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppRazor\obj\Debug\netcoreapp2.0\WebAppRazor.csprojResolveAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppRazor\obj\Debug\netcoreapp2.0\WebAppRazor.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppRazor\obj\Debug\netcoreapp2.0\WebAppRazor.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppRazor\obj\Debug\netcoreapp2.0\WebAppRazor.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppRazor\obj\Debug\netcoreapp2.0\WebAppRazor.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\WebAppRazor\obj\Debug\netcoreapp2.0\WebAppRazor.pdb

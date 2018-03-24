@@ -1,0 +1,41 @@
+﻿@model SqlServerBookStore.Models.Category
+
+<div class="">
+    <div class="page-title">
+        <div class="title_left">
+            <h3>Book Category</h3>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                    <div class="x_title">
+                        <h2>Detail Book Category</h2>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="x_content">
+                        <br />
+                        <form asp-controller="Categories" asp-action="Create" data-parsley-validate class="form-horizontal form-label-left">
+                            <div asp-validation-summary="All"></div>
+                            <div class="form-group">
+                                <label asp-for="Name" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="Name" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="ln_solid"></div>
+                            <div class="form-group">
+                                <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3">
+                                    <button class="btn btn-primary" type="button" onclick="location.href='@Url.Action("Index", "Categories")'">Back to List</button>
+                                    <button class="btn btn-primary" type="button" onclick="location.href='@Url.Action("Edit", "Categories", new { id =  @Model.CategoryID})'">Edit</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

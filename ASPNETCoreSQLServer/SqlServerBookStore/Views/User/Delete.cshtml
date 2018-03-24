@@ -1,0 +1,60 @@
+﻿@model SqlServerBookStore.Models.UserViewModel
+
+<div class="">
+    <div class="page-title">
+        <div class="title_left">
+            <h3>Users</h3>
+        </div>
+
+        <div class="clearfix"></div>
+
+        <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                    <div class="x_title">
+                        <h2>Are you sure you want to delete this?</h2>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="x_content">
+                        <br />
+                        <form asp-controller="User" asp-action="Delete" data-parsley-validate class="form-horizontal form-label-left">
+                            <div asp-validation-summary="All"></div>
+                            <input type="hidden" asp-for="UserName" />
+                            <div class="form-group">
+                                <label asp-for="UserName" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="UserName" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="RoleName" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="RoleName" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Email" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="Email" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="FullName" class="control-label col-md-3 col-sm-3 col-xs-12"></label>
+                                <div class="col-md-6 col-sm-6 col-xs-12">
+                                    <input asp-for="FullName" readonly="readonly" class="form-control col-md-7 col-xs-12">
+                                </div>
+                            </div>
+                            <div class="ln_solid"></div>
+                            <div class="form-group">
+                                <div class="col-md-6 col-sm-6 col-xs-12 col-md-offset-3">
+                                    <button class="btn btn-primary" type="button" onclick="location.href='@Url.Action("Index", "User")'">Back to List</button>
+                                    <button class="btn btn-primary" type="submit">Delete</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

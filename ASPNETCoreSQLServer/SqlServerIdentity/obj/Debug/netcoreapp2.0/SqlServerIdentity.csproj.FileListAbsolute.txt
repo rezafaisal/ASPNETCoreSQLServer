@@ -1,0 +1,12 @@
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\bin\Debug\netcoreapp2.0\SqlServerIdentity.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\bin\Debug\netcoreapp2.0\SqlServerIdentity.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\bin\Debug\netcoreapp2.0\SqlServerIdentity.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\bin\Debug\netcoreapp2.0\SqlServerIdentity.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\bin\Debug\netcoreapp2.0\SqlServerIdentity.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\obj\Debug\netcoreapp2.0\SqlServerIdentity.csprojResolveAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\obj\Debug\netcoreapp2.0\SqlServerIdentity.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\obj\Debug\netcoreapp2.0\SqlServerIdentity.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\obj\Debug\netcoreapp2.0\SqlServerIdentity.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\obj\Debug\netcoreapp2.0\SqlServerIdentity.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerIdentity\obj\Debug\netcoreapp2.0\SqlServerIdentity.pdb

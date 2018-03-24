@@ -1,0 +1,13 @@
+﻿@model SqlServerBookStore.Models.ContohModel
+
+<form asp-controller="Latihan" asp-action="Template">
+    <label asp-for="ContohText"></label><br />
+    <select asp-for="ContohText"
+            asp-items="@(new SelectList(ViewBag.Authors, "AuthorID", "Name"))"
+            multiple="multiple"></select>
+
+    <br />
+
+    <button type="submit" class="btn btn-success">Submit</button>
+</form>
+

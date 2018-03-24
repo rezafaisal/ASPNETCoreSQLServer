@@ -1,0 +1,39 @@
+﻿@model SqlServerBookStore.Models.ContohModel
+
+<form asp-controller="Latihan" asp-action="Template">
+    <label asp-for="ContohText"></label>:
+    <input asp-for="ContohText" />
+    <br />
+
+    <label asp-for="ContohDateTime"></label>:
+    <input asp-for="ContohDateTime" />
+    <br />
+
+    <label asp-for="ContohNumber"></label>:
+    <input asp-for="ContohNumber" />
+    <br />
+
+    <label asp-for="ContohBoolean"></label>:
+    <input asp-for="ContohBoolean" />
+    <br />
+
+    <button type="submit" class="btn btn-success">Submit</button>
+</form>
+
+<form asp-controller="Latihan" asp-action="Template">
+    <label asp-for="ContohText"></label><br />
+    <textarea asp-for="ContohText" rows="3"></textarea>
+    <br />
+
+    <button type="submit" class="btn btn-success">Submit</button>
+</form>
+
+<form asp-controller="Latihan" asp-action="Template">
+    <label asp-for="ContohText"></label><br />
+    <select asp-for="ContohText"
+            asp-items="@(new SelectList(ViewBag.Authors, "AuthorID", "Name"))"></select>
+    <br />
+
+    <button type="submit" class="btn btn-success">Submit</button>
+</form>
+

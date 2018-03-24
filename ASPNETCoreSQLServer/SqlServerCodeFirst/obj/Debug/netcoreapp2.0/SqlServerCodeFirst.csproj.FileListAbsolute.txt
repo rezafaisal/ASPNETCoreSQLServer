@@ -1,0 +1,18 @@
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\SqlServerCodeFirst\bin\Debug\netcoreapp2.0\SqlServerCodeFirst.deps.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\SqlServerCodeFirst\bin\Debug\netcoreapp2.0\SqlServerCodeFirst.runtimeconfig.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\SqlServerCodeFirst\bin\Debug\netcoreapp2.0\SqlServerCodeFirst.runtimeconfig.dev.json
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\SqlServerCodeFirst\bin\Debug\netcoreapp2.0\SqlServerCodeFirst.dll
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\SqlServerCodeFirst\obj\Debug\netcoreapp2.0\SqlServerCodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\SqlServerCodeFirst\obj\Debug\netcoreapp2.0\SqlServerCodeFirst.AssemblyInfoInputs.cache
+C:\Users\faisal\Documents\Visual Studio 2017\Projects\ASPNETCoreSQLServer\SqlServerCodeFirst\obj\Debug\netcoreapp2.0\SqlServerCodeFirst.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerCodeFirst\bin\Debug\netcoreapp2.0\SqlServerCodeFirst.deps.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerCodeFirst\bin\Debug\netcoreapp2.0\SqlServerCodeFirst.runtimeconfig.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerCodeFirst\bin\Debug\netcoreapp2.0\SqlServerCodeFirst.runtimeconfig.dev.json
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerCodeFirst\bin\Debug\netcoreapp2.0\SqlServerCodeFirst.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerCodeFirst\bin\Debug\netcoreapp2.0\SqlServerCodeFirst.pdb
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerCodeFirst\obj\Debug\netcoreapp2.0\SqlServerCodeFirst.csprojResolveAssemblyReference.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerCodeFirst\obj\Debug\netcoreapp2.0\SqlServerCodeFirst.csproj.CoreCompileInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerCodeFirst\obj\Debug\netcoreapp2.0\SqlServerCodeFirst.AssemblyInfoInputs.cache
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerCodeFirst\obj\Debug\netcoreapp2.0\SqlServerCodeFirst.AssemblyInfo.cs
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerCodeFirst\obj\Debug\netcoreapp2.0\SqlServerCodeFirst.dll
+D:\Data\My Books\INDC - ASP.NET - ASP.NET Core & SQL Server\source\ver1.1\ASPNETCoreSQLServer\SqlServerCodeFirst\obj\Debug\netcoreapp2.0\SqlServerCodeFirst.pdb
