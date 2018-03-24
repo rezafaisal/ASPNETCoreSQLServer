@@ -1,6 +1,9 @@
 # ASP.NET Core 2 & MS SQL Server Code Samples
 Repository ini berisi contoh-contoh aplikasi web yang dibangun dengan ASP.NET Core 2 untuk mengakses database MS SQL Server.  Setiap sebuah contoh aplikasi web akan disimpan di dalam sebuah folder.  Kode program pada repository ini ditulis dengan menggunakan Visual Studio 2017.  
 Berikut adalah daftar contoh aplikasi web yang ada di sini:
+- WebAppEmpty
+- WebAppMVC
+- WebAppRazor
 - SqlServerDbFirst
 - SqlServerCodeFirst
 - SqlServerIdentity
